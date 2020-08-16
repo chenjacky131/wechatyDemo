@@ -1,0 +1,1 @@
+{"version":3,"file":"robot.d.ts","sourceRoot":"","sources":["../ts/robot.ts"],"names":[],"mappings":"AAGA,cAAM,KAAK;IAET,KAAK,EAAE,MAAM,CAAA;IACb,IAAI,EAAE,MAAM,CAAA;IACZ,GAAG,EAAE,GAAG,CAAA;gBACK,KAAK,EAAC,MAAM,EAAE,IAAI,EAAE,MAAM;IAYvC,KAAK,IAAI,GAAG;CA2Bb;AACD,OAAO,EAAE,KAAK,EAAE,CAAA"}
